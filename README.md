@@ -1,16 +1,14 @@
-## Hi there 👋
+Hi there
 
-<!--
-**camu1232/camu1232** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hi! I'm Camila, a Computer Science student passionate about web development and technology.
+Currently learning:
+- HTML
+- CSS
+- JavaScript
+Goals:
+- Improve my frontend skills
+- Learn React
+- Build real-world projects
+Contact:
+LinkedIn: www.linkedin.com/in/camila-orts-294846399
+Email: camilaorts33@gmail.com
